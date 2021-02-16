@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CNG462_A2": {
+      "commandName": "Project",
+      "commandLineArgs": "map.txt availablewords.txt"
+    }
+  }
+}
